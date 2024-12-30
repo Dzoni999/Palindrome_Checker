@@ -1,0 +1,15 @@
+C:\Users\Nikola Sajic\source\repos\Palindrome_Checker\Palindrome_Checker\bin\Debug\net8.0\Palindrome_Checker.exe
+C:\Users\Nikola Sajic\source\repos\Palindrome_Checker\Palindrome_Checker\bin\Debug\net8.0\Palindrome_Checker.deps.json
+C:\Users\Nikola Sajic\source\repos\Palindrome_Checker\Palindrome_Checker\bin\Debug\net8.0\Palindrome_Checker.runtimeconfig.json
+C:\Users\Nikola Sajic\source\repos\Palindrome_Checker\Palindrome_Checker\bin\Debug\net8.0\Palindrome_Checker.dll
+C:\Users\Nikola Sajic\source\repos\Palindrome_Checker\Palindrome_Checker\bin\Debug\net8.0\Palindrome_Checker.pdb
+C:\Users\Nikola Sajic\source\repos\Palindrome_Checker\Palindrome_Checker\obj\Debug\net8.0\Palindrome_Checker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikola Sajic\source\repos\Palindrome_Checker\Palindrome_Checker\obj\Debug\net8.0\Palindrome_Checker.AssemblyInfoInputs.cache
+C:\Users\Nikola Sajic\source\repos\Palindrome_Checker\Palindrome_Checker\obj\Debug\net8.0\Palindrome_Checker.AssemblyInfo.cs
+C:\Users\Nikola Sajic\source\repos\Palindrome_Checker\Palindrome_Checker\obj\Debug\net8.0\Palindrome_Checker.csproj.CoreCompileInputs.cache
+C:\Users\Nikola Sajic\source\repos\Palindrome_Checker\Palindrome_Checker\obj\Debug\net8.0\Palindrome_Checker.sourcelink.json
+C:\Users\Nikola Sajic\source\repos\Palindrome_Checker\Palindrome_Checker\obj\Debug\net8.0\Palindrome_Checker.dll
+C:\Users\Nikola Sajic\source\repos\Palindrome_Checker\Palindrome_Checker\obj\Debug\net8.0\refint\Palindrome_Checker.dll
+C:\Users\Nikola Sajic\source\repos\Palindrome_Checker\Palindrome_Checker\obj\Debug\net8.0\Palindrome_Checker.pdb
+C:\Users\Nikola Sajic\source\repos\Palindrome_Checker\Palindrome_Checker\obj\Debug\net8.0\Palindrome_Checker.genruntimeconfig.cache
+C:\Users\Nikola Sajic\source\repos\Palindrome_Checker\Palindrome_Checker\obj\Debug\net8.0\ref\Palindrome_Checker.dll
